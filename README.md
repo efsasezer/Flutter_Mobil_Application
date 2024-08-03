@@ -16,17 +16,7 @@ Zengin Görseller ve Videolar: Image ve Video widget'ları kullanarak görseller
 
 Paketler: Google Fonts, Cupertino Icons, QuickAlert, Video Player, Chewie, Percent Indicator, Sqflite, FL Chart ve Stop Watch Timer gibi paketlerin kullanımı.
 
-Sayfalar: Uygulamada toplam 11 sayfa bulunmaktadır:
-
-Kullanıcı Giriş ve Kayıt Ekranı
-
-Görev Yönetimi
-
-Egzersiz Takibi
-
-Kilo Takibi
-
-Motivasyon Mesajları ve Daha Fazlası
+Sayfalar: Uygulamada toplam 11 sayfa bulunmaktadır.Kullanıcı Giriş ve Kayıt Ekranı,Görev Yönetimi,Egzersiz Takibi,Kilo Takibi,Motivasyon Mesajları ve Daha Fazlası
 
 
 
